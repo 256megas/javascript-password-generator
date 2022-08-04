@@ -1,0 +1,19 @@
+#mainContainer {
+  border: 1px solid black;
+  min-width: 300px;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+#mainContainer h1{
+  font-size: 2rem;
+}
+
+input[type="button"] {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
